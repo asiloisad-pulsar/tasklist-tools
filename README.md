@@ -2,6 +2,9 @@
 
 Task state management and navigation commands for tasklist files. Requires a grammar package such as [language-tasklist](https://github.com/asiloisad-pulsar/language-tasklist).
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [tasklist-tools](https://github.com/lumine-code/tasklist-tools).
+
 ![status-bar](https://github.com/asiloisad-pulsar/tasklist-tools/blob/master/assets/status-bar.png?raw=true)
 
 ## Features
